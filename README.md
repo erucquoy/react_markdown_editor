@@ -4,6 +4,7 @@
 
 ```
 git clone https://github.com/erucquoy/react_markdown_editor
+cd react_markdown_editor
 npm install
 ```
 
